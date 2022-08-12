@@ -1,0 +1,11 @@
+body {
+    background-color: blanchedalmond;
+  }
+ 
+ .jumbotron {
+    background-image: url("resources/background.jpg");
+    background-size: 100%;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px black;
+  }
